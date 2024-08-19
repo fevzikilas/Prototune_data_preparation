@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Prototune_data_preparation"
+  site-url: "https://fevzikilas.github.io/Prototune_data_preparation"
+  description: "Protodune Data Preparation and General Notebook"
+  repo-branch: main
+  repo-url: "https://github.com/fevzikilas/Prototune_data_preparation"
